@@ -28,3 +28,7 @@ SIP로 참가
 
 참가 지침
 https://us06web.zoom.us/meetings/84024081944/invitations?signature=7c3S6KRKz9eEH8ybY454M7k1kxq5GRORKX6w8HjCzWU
+
+
+## Weekly Evaluation results
+### https://docs.google.com/spreadsheets/d/1Yq8eMrg7zJ6lZTgp_QLEQIbVLnCBRvGpvmKeHAOnE2M/edit?usp=drive_link
