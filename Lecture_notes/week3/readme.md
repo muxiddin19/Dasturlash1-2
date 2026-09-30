@@ -1,4 +1,6 @@
 # Weekly class data
+## Lecture notes
+### https://github.com/muxiddin19/Dasturlash1-2/blob/main/Lecture_notes/week3/Lecture3_Amallar.pdf
 ## Weekly quiz
 ### https://docs.google.com/forms/d/e/1FAIpQLSceXAKeKi1KoSL15VZqTkB32oerLrqH-BmBF2h6Z7xRzUYoZw/viewform
 
