@@ -1,0 +1,10 @@
+# Weekly class data
+## Practical slides
+### https://github.com/muxiddin19/Dasturlash1-2/blob/main/Practical_notes/week10/Practical4_Slides.pdf
+## Worksheet (hands-on exercises)
+### https://github.com/muxiddin19/Dasturlash1-2/blob/main/Practical_notes/week10/Practical4_Worksheet.pdf
+## Weekly quiz
+### TODO: createPractical4Form() ishga tushirilgach, Google Form havolasini shu yerga qo'ying
+
+## Recorded Video Lectures
+###
