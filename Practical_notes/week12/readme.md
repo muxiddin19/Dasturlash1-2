@@ -4,7 +4,7 @@
 ## Worksheet (hands-on exercises)
 ### https://github.com/muxiddin19/Dasturlash1-2/blob/main/Practical_notes/week12/Practical6_Worksheet.pdf
 ## Weekly quiz
-### TODO: createPractical6Form() ishga tushirilgach, Google Form havolasini shu yerga qo'ying
+### https://docs.google.com/forms/d/e/1FAIpQLSe4Ila4mgIY5Xu2mpOB4ORzN_xeFt0u6Rgkl-vlkb9tjRWJeQ/viewform
 
 ## Recorded Video Lectures
 ###
