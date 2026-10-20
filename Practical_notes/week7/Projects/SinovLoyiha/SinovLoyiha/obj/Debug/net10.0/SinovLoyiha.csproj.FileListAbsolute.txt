@@ -1,0 +1,15 @@
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\bin\Debug\net10.0\SinovLoyiha.exe
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\bin\Debug\net10.0\SinovLoyiha.deps.json
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\bin\Debug\net10.0\SinovLoyiha.runtimeconfig.json
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\bin\Debug\net10.0\SinovLoyiha.dll
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\bin\Debug\net10.0\SinovLoyiha.pdb
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoyiha.GeneratedMSBuildEditorConfig.editorconfig
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoyiha.AssemblyInfoInputs.cache
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoyiha.AssemblyInfo.cs
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoyiha.csproj.CoreCompileInputs.cache
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoyiha.dll
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\refint\SinovLoyiha.dll
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoyiha.pdb
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoyiha.genruntimeconfig.cache
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\ref\SinovLoyiha.dll
+D:\class\JBNUU\Projects\SinovLoyiha\SinovLoyiha\obj\Debug\net10.0\SinovLoy.6B952902.Up2Date

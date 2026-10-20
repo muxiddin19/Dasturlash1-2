@@ -1,0 +1,15 @@
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.GeneratedMSBuildEditorConfig.editorconfig
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.AssemblyInfoInputs.cache
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.AssemblyInfo.cs
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.csproj.CoreCompileInputs.cache
+D:\class\JBNUU\Projects\SinovLoyiha\profil\bin\Debug\net10.0\my_profile.exe
+D:\class\JBNUU\Projects\SinovLoyiha\profil\bin\Debug\net10.0\my_profile.deps.json
+D:\class\JBNUU\Projects\SinovLoyiha\profil\bin\Debug\net10.0\my_profile.runtimeconfig.json
+D:\class\JBNUU\Projects\SinovLoyiha\profil\bin\Debug\net10.0\my_profile.dll
+D:\class\JBNUU\Projects\SinovLoyiha\profil\bin\Debug\net10.0\my_profile.pdb
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.dll
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\refint\my_profile.dll
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.pdb
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.genruntimeconfig.cache
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\ref\my_profile.dll
+D:\class\JBNUU\Projects\SinovLoyiha\profil\obj\Debug\net10.0\my_profile.csproj.Up2Date

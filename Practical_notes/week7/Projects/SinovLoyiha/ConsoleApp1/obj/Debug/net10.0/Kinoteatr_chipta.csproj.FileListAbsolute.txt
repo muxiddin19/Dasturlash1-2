@@ -1,0 +1,15 @@
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\bin\Debug\net10.0\Kinoteatr_chipta.exe
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\bin\Debug\net10.0\Kinoteatr_chipta.deps.json
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\bin\Debug\net10.0\Kinoteatr_chipta.runtimeconfig.json
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\bin\Debug\net10.0\Kinoteatr_chipta.dll
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\bin\Debug\net10.0\Kinoteatr_chipta.pdb
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteatr_chipta.GeneratedMSBuildEditorConfig.editorconfig
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteatr_chipta.AssemblyInfoInputs.cache
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteatr_chipta.AssemblyInfo.cs
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteatr_chipta.csproj.CoreCompileInputs.cache
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteatr_chipta.dll
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\refint\Kinoteatr_chipta.dll
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteatr_chipta.pdb
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteatr_chipta.genruntimeconfig.cache
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\ref\Kinoteatr_chipta.dll
+D:\class\JBNUU\Projects\SinovLoyiha\ConsoleApp1\obj\Debug\net10.0\Kinoteat.C07D400E.Up2Date
