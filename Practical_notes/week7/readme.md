@@ -7,4 +7,5 @@
 ### https://docs.google.com/forms/d/e/1FAIpQLSfsc-ubFNNnfWrSTn180I9urHzlkAfA82WtXHZxGYfZMeh1Dg/viewform
 
 ## Recorded Video Lectures
-###
+### Shareable link: https://us06web.zoom.us/rec/share/xbl3INGRATfjxTR0OvcteQD6sC_QSrxXZHFsax5OedN-iw7KQ9ilQtwohTlov6jQ.r895DQmsMCaYA5HB
+### Passcode: *8dhwr!m
