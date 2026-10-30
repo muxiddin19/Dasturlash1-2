@@ -9,3 +9,6 @@
 ## Recorded Video Lectures
 ### Shareable link: https://us06web.zoom.us/rec/share/xbl3INGRATfjxTR0OvcteQD6sC_QSrxXZHFsax5OedN-iw7KQ9ilQtwohTlov6jQ.r895DQmsMCaYA5HB
 ### Passcode: *8dhwr!m
+
+### Shareable link: https://us06web.zoom.us/rec/share/f4fJiE89SV_nNC9U7NQ9xcI9Xor3GZP1MhWwIp4z-wGAtE7G0Au1x-se_xudjisv.dTT_VgAxa2YPXUk1
+### Passcode: 2xz%x^&Y
