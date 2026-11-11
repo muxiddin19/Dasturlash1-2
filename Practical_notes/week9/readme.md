@@ -7,4 +7,5 @@
 ### https://docs.google.com/forms/d/e/1FAIpQLSepYg_wexTHQKUIousFoXCK0yGsnaNtDV0pNTlcbvWBXbCOkA/viewform
 
 ## Recorded Video Lectures
-###
+### Shareable link: https://us06web.zoom.us/rec/share/MqrGz5bNd7LXgOGSCn_nRDINOhXY99ib7u0IHg_2cSZO9En7g9BSA5UekM0MWqA.661wA-9Aql0aeYZH
+### Passcode: c@&cyut3
