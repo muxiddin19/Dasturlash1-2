@@ -10,3 +10,8 @@
 ### Shareable link: 
 #### https://us06web.zoom.us/rec/share/Ap0NOafBXg1DsPOx_1IJhG5IufqgLD_MfCpXcL4yzxRt_lNyALhtnoFjLjdqRmun.9NDdIZS_zxBFqtRe
 ### Passcode: ?*3wedht
+
+### Shareable link: https://us06web.zoom.us/rec/share/jxEUb-amrcc4UGgLqjJMUTr3lsDpXrdO8yOJoJVC3PJ134Bf0_cvurOmfkKBak8A.pz1Aru2wMsg_J_vW
+### bPasscode: #q@kcL2D
+
+
