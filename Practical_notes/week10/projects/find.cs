@@ -1,9 +1,3 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
         Console.Write("Nechta talaba bor? ");
         int soni;
         while (!int.TryParse(Console.ReadLine(), out soni) || soni <= 0)
@@ -39,5 +33,4 @@ class Program
             }
         }
         if (!topildi) Console.WriteLine("Bunday ball topilmadi.");
-    }
-}
+  
