@@ -1,9 +1,3 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
         // 1. Massivni kiritish
         Console.Write("Nechta talaba bor? ");
         int soni;
@@ -60,5 +54,4 @@ class Program
         {
             Console.WriteLine(b);
         }
-    }
-}
+ 
